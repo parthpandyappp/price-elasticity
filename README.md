@@ -35,3 +35,9 @@ As we can see from the data below, there are different IDs for different categor
  #### Instance OLS regression result
  ![image](https://user-images.githubusercontent.com/34797335/188854199-4c0e58ab-70f2-4a9d-ada4-132736c917e2.png)
 
+## Price Elasticity
+Price elasticity of demand is the ratio of the percentage change in quantity demanded of a product to the percentage change in price. Economists employ it to understand how supply and demand change when a product's price changes.
+
+If there is a negative percentage change in price, it means there is a price decrease. When there is a price decrease, the quantity demanded of goods increases. So, the change in quantity demanded is positive.
+
+![image](https://user-images.githubusercontent.com/34797335/188855207-5d83ff14-0bbd-4caf-be2f-a7e04cb03a9a.png)
